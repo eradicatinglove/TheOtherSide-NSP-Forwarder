@@ -73,7 +73,7 @@ Steps:
 
 1. Open the program  
 2. Select **Standard NRO Forwarder** tab  
-3. Enter *Title*, *Publisher*, *Title ID*  
+3. Enter *Title*, *Title ID*  
 4. Set **NRO path on SD** (`sdmc:/switch/...`)  
 5. Choose an icon  
 6. Click **Build Standard Forwarder NSP**  
@@ -86,7 +86,7 @@ Steps:
 Steps:
 
 1. Select **RetroArch ROM Forwarder** tab  
-2. Enter Title / Publisher / Title ID  
+2. Enter Title / Title ID  
 3. RetroArch NRO path:
 
 ```
