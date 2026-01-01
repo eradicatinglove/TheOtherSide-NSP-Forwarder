@@ -27,9 +27,9 @@ Switch NSP Forwarder/
 │   ├── hacbrewpack.exe
 │   ├── prod.keys (NOT INCLUDED — user must add)
 │   ├── template_forwarder/
-│   │     ├── exefs/
-│   │     └── control/
-│   └── win-x64/
+│         ├── exefs/
+│         └── control/
+│   
 │
 └── output/  (created automatically)
 ```
