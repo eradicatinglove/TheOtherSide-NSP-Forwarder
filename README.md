@@ -51,7 +51,6 @@ The tool will automatically detect either one.
 # 🖥️ System Requirements
 
 - Windows 10 or 11  
-- Python **NOT required**  
 - Atmosphère CFW  
 - RetroArch on SD (if using ROM forwarders)
 
