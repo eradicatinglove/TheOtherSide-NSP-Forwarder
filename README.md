@@ -1,4 +1,12 @@
-# Switch NSP Forwarder Builder
+
+![Capture](https://github.com/user-attachments/assets/0563d8ac-492c-4a97-8f09-0b692ae7be61)
+
+
+![preview](https://github.com/user-attachments/assets/7c98945e-5bbf-4193-8fa2-69f459275dff)
+
+
+
+# The Other Side NSP Forwarder
 
 This tool builds Nintendo Switch **NSP forwarders** for:
 - Standard Homebrew `.nro` applications
