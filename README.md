@@ -124,6 +124,7 @@ You must provide a **ready-to-use PNG**.
 
 ### With ImageMagick (RECOMMENDED)
 - Any GIF can be used
+- GIF must be resized to 256x80
 - Automatically converted to Switch-safe specs:
   - 256×80
   - No alpha
