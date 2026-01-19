@@ -125,6 +125,7 @@ You must provide a **ready-to-use PNG**.
 ### With ImageMagick (RECOMMENDED)
 - Any GIF can be used
 - GIF must be resized to 256x80
+- Gif cannot be longer than 15 ms
 - Automatically converted to Switch-safe specs:
   - 256×80
   - No alpha
