@@ -4,7 +4,7 @@ This tool builds Nintendo Switch **NSP forwarders** for:
 - Standard Homebrew `.nro` applications
 - RetroArch cores + ROM forwarders
 
-It supports **custom icons**, **startup logos**, and **startup animations**, similar to the advanced builder on nsp-forwarder.n8.io — but fully offline.
+It supports **custom icons**, **startup logos**, and **startup animations**
 
 ---
 
