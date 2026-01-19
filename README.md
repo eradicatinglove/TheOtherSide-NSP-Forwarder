@@ -2,7 +2,8 @@
 ![Capture](https://github.com/user-attachments/assets/0563d8ac-492c-4a97-8f09-0b692ae7be61)
 
 
-![preview](https://github.com/user-attachments/assets/7c98945e-5bbf-4193-8fa2-69f459275dff)
+![Capture](https://github.com/user-attachments/assets/9ddfd69b-a4ec-4fc7-a6e5-1b23f5f9b02d)
+
 
 
 
