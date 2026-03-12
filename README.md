@@ -217,13 +217,13 @@ Output will be in the `dist/` folder.
 - hacbrewpack
 - Atmosphère
 - Pillow / PySide6
+- root-mtx (for nro2nsp which this inspired by)
 
 ---
 
 ## Disclaimer
 
 This software is for **homebrew and educational use only**.
-You are responsible for complying with local laws and Nintendo's terms of service.
 
 
 
